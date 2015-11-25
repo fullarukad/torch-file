@@ -1,0 +1,17 @@
+apt-get install libssl-dev
+
+luarocks install luacrypto 
+
+luarocks install itorch
+
+
+//instalar pip de python para instalar ipython-jupyter
+
+install python-pip
+
+
+//solucion de ipython
+pip install path.py
+
+
+http://blog.desdelinux.net/instalacion-configuracion-debian-8-gnome/
